@@ -2,3 +2,4 @@ docker-compose.yml
 kibana/config/kibana.yml
 logstash/config/logstash.yml
 elasticsearch/config/elasticsearch.yml
+logstash/pipeline/logstash.conf
